@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-04)
+## Unreleased (2025-07-11)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`b300eed`](https://github.com/stdlib-js/stdlib/commit/b300eedd44a9e0e1a2a435c056675dc0c84337ba) - **docs:** remove annotations _(by Athan Reines)_
 -   [`eece266`](https://github.com/stdlib-js/stdlib/commit/eece266922d61be79ec4a518122770d6e5a45c35) - **docs:** update examples _(by Athan Reines)_
 -   [`6c79b2f`](https://github.com/stdlib-js/stdlib/commit/6c79b2f8296fbc8ac2de470e6ff7ae446102c60f) - **docs:** update note _(by Athan Reines)_
 -   [`0105776`](https://github.com/stdlib-js/stdlib/commit/0105776252892d8bb6b2e26e1a7900aa12174393) - **docs:** update note _(by Athan Reines)_
