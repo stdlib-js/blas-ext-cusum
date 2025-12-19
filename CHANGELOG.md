@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`cc35d03`](https://github.com/stdlib-js/stdlib/commit/cc35d03d3f23656f8db521d3fcb842bfafec3f2a) - **docs:** fix option _(by Athan Reines)_
 -   [`533daa7`](https://github.com/stdlib-js/stdlib/commit/533daa7ac4cb7322aa875d70c63d7a995711dadc) - **refactor:** avoid repeated operation _(by Athan Reines)_
 -   [`a11cf72`](https://github.com/stdlib-js/stdlib/commit/a11cf72e288f0cb5daf625b21b1ebf89ebdaf06e) - **refactor:** use base utility _(by Athan Reines)_
 -   [`ac78d4f`](https://github.com/stdlib-js/stdlib/commit/ac78d4f7a00dd61a91e8583fb1b2076237ec373c) - **docs:** update type _(by Athan Reines)_
