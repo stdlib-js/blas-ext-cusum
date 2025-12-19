@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-15)
+## Unreleased (2025-12-19)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`533daa7`](https://github.com/stdlib-js/stdlib/commit/533daa7ac4cb7322aa875d70c63d7a995711dadc) - **refactor:** avoid repeated operation _(by Athan Reines)_
 -   [`a11cf72`](https://github.com/stdlib-js/stdlib/commit/a11cf72e288f0cb5daf625b21b1ebf89ebdaf06e) - **refactor:** use base utility _(by Athan Reines)_
 -   [`ac78d4f`](https://github.com/stdlib-js/stdlib/commit/ac78d4f7a00dd61a91e8583fb1b2076237ec373c) - **docs:** update type _(by Athan Reines)_
 -   [`ddbd40d`](https://github.com/stdlib-js/stdlib/commit/ddbd40d31c6efac28bda0bef87d40b7b086147b5) - **docs:** update type _(by Athan Reines)_
