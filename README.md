@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cusum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@esm/index.mjs';
+import cusum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@v0.1.0-esm/index.mjs';
 ```
 
 #### cusum( x\[, initial]\[, options] )
@@ -217,7 +217,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/index.mjs';
-import cusum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@esm/index.mjs';
+import cusum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-cusum@v0.1.0-esm/index.mjs';
 
 // Generate an array of random numbers:
 var xbuf = discreteUniform( 25, 0, 20, {
