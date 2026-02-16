@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3c238a1`](https://github.com/stdlib-js/stdlib/commit/3c238a1427a903ef8c48b45f3bc07483c2c82625) - **docs:** improve doctests for ndarray instances in `blas/ext/cusum` [(#10236)](https://github.com/stdlib-js/stdlib/pull/10236) _(by AyushiJain18270)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   AyushiJain18270
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
