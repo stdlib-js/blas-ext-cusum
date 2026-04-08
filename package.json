@@ -47,6 +47,7 @@
     "@stdlib/ndarray-base-broadcast-scalar": "^0.2.4",
     "@stdlib/ndarray-base-complement-shape": "^0.1.1",
     "@stdlib/ndarray-base-maybe-broadcast-array": "^0.2.5",
+    "@stdlib/ndarray-base-ndims": "^0.2.3",
     "@stdlib/ndarray-base-unary-strided1d-dispatch-factory": "^0.0.1",
     "@stdlib/ndarray-dtype": "^0.2.3",
     "@stdlib/ndarray-dtypes": "^0.4.1",
