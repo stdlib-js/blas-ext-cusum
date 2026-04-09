@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-08)
+## Unreleased (2026-04-09)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`e47ee45`](https://github.com/stdlib-js/stdlib/commit/e47ee4551cf19ad584361fb80c9eed84ff9ea792) - resolve bugs, docs, and JSDoc type errors [(#11337)](https://github.com/stdlib-js/stdlib/pull/11337)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`e47ee45`](https://github.com/stdlib-js/stdlib/commit/e47ee4551cf19ad584361fb80c9eed84ff9ea792) - **fix:** resolve bugs, docs, and JSDoc type errors [(#11337)](https://github.com/stdlib-js/stdlib/pull/11337) _(by Philipp Burckhardt)_
 -   [`7559ce0`](https://github.com/stdlib-js/stdlib/commit/7559ce053cbf8bada23603bd78d8cd062140e1d0) - **refactor:** add explicit rank tests for initial value argument _(by Athan Reines)_
 -   [`5f8e258`](https://github.com/stdlib-js/stdlib/commit/5f8e2586ad6dc5c441a25d60451714f5a99f99ea) - **bench:** refactor to use string interpolation in blas/ext/cusum [(#10822)](https://github.com/stdlib-js/stdlib/pull/10822) _(by Kamal Singh Rautela)_
 -   [`3c238a1`](https://github.com/stdlib-js/stdlib/commit/3c238a1427a903ef8c48b45f3bc07483c2c82625) - **docs:** improve doctests for ndarray instances in `blas/ext/cusum` [(#10236)](https://github.com/stdlib-js/stdlib/pull/10236) _(by AyushiJain18270)_
@@ -26,11 +37,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   AyushiJain18270
 -   Kamal Singh Rautela
+-   Philipp Burckhardt
 
 </section>
 
